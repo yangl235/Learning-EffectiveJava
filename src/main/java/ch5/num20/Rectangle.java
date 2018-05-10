@@ -1,4 +1,4 @@
-package ch5;
+package ch5.num20;
 
 public class Rectangle extends Shape {
     final double length;

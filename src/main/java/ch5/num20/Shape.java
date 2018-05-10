@@ -1,4 +1,4 @@
-package ch5;
+package ch5.num20;
 
 abstract class Shape {
     abstract double area();

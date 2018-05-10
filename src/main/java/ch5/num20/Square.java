@@ -1,4 +1,4 @@
-package ch5;
+package ch5.num20;
 
 public class Square extends Rectangle {
     Square(double side) {
